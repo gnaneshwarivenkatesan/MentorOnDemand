@@ -1,0 +1,153 @@
+body {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(250, 186, 10);
+   
+  }
+  #mentor{
+  margin-right:800px;
+  margin-top:30px;
+  
+  }
+  
+  .topnav a {
+    float: left;
+    color: #131212;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left:150px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color:rgb(250, 147, 12);
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(250, 147, 12);
+    color: rgb(0, 0, 0);
+  }
+  .container{
+      align-content: center;
+      
+  }
+  .container1{
+    width: 100%;
+    min-width: 500px;
+    margin: auto;
+  }
+  #label{
+     margin-left:200px;
+      align-content: left;
+  }
+  #h{
+    margin-left:40%;
+    margin-top:150px;
+  }
+  .btn{
+      margin-left:15px;
+      color:black;
+      
+  }
+  .a1{
+      
+      margin-top: 100px;
+      margin-left: 600px;
+  }
+  #a2{
+    color:black;
+    text-decoration: underline;
+  }
+  #icon{
+      font-size: 25px;
+      color:black;
+  }
+  #h2{
+      margin-left:10%;
+      margin-top:100px;
+  }
+  .Absolute-Center.is-Responsive{
+      width: 50%;
+      height: 50%;
+      margin-right: 350px;
+     margin-top: 100px;
+    
+      padding:40px;
+  }
+  .Absolute-Center{
+      margin: auto;
+      position: absolute;
+      top:0;
+      left:0;
+      bottom:0;
+      right:0;
+    }
+    #h3{
+        margin-left:150px
+    }
+    #block{
+        float: center;
+    }
+    .topnav1{
+        
+        overflow: hidden;
+        background-color: rgb(250, 186, 10);
+        text-align: center;
+        height: 50px;
+        font-size: 40px;
+    }
+    
+    footer{
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: rgb(250, 186, 10);
+      color:black;
+      text-align: left;
+      height: 45px;
+  }
+  #signup{
+    margin-left: 90px;
+  }
+  #login{
+    margin-left: 50px;
+  }
+  #card{
+    width: 30%;
+    height: 70%;
+  }
+  #cbody{
+    background-color: rgb(250, 147, 12);
+    color: rgb(0, 0, 0);
+  }
+  .card{
+    align-content: center;
+    margin-left: 40px;
+  }
+#save{
+  margin-left: 100px;
+}
+#table{
+	
+	height:70%;
+	width:60%;
+}
+.thead{
+	 background-color:rgb(250, 147, 12);
+}
+#he{
+	margin-top:100px;
+}
+#list{
+	margin-top:250px;
+	margin-left:40%;
+}
